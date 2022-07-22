@@ -1,0 +1,14 @@
+{ "columns":12,
+ "image":"grafika-tileset.png",
+ "imageheight":384,
+ "imagewidth":384,
+ "margin":0,
+ "name":"grafika-tileset",
+ "spacing":0,
+ "tilecount":144,
+ "tiledversion":"1.9.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}
